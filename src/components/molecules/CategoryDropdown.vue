@@ -214,4 +214,4 @@ const handleHover = (category) => {
 }
 
 .empty-state { color: #999; font-style: italic; margin-top: 20px; }
-</style>
+</style>    
