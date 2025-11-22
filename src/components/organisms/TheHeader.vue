@@ -8,7 +8,6 @@ import HeaderActionItem from '../molecules/HeaderActionItem.vue';
 import UserDropdown from '../molecules/UserDropdown.vue';
 import CategoryDropdown from '../molecules/CategoryDropdown.vue';
 
-// İkon Atomları (Önceki adımlarda oluşturduk)
 import IconCart from '../atoms/icons/IconCart.vue';
 import IconUser from '../atoms/icons/IconUser.vue';
 
